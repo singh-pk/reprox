@@ -1,0 +1,14 @@
+{
+  "name": "react-reprox",
+  "version": "0.0.0",
+  "description": "Proxy based state management library for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-reprox"
+  ],
+  "author": "singh-pk <pksn1111@gmail.com> (https://github.com/singh-pk)",
+  "license": "MIT"
+}
